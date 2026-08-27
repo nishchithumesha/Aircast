@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.2
+requests>=2.31
+plotly>=5.22
+reportlab>=4.2
+python-dateutil>=2.9
+matplotlib
+scikit-learn
+google.genai
